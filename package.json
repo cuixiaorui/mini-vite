@@ -1,0 +1,16 @@
+{
+  "name": "mini-vite",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "nodemon server.js"
+  },
+  "dependencies": {
+    "@vue/compiler-dom": "^3.2.12",
+    "@vue/compiler-sfc": "^3.2.12",
+    "koa": "^2.13.1",
+    "koa-send": "^5.0.1",
+    "vue": "^3.2.12"
+  }
+}
